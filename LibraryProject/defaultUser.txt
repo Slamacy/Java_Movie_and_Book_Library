@@ -1,0 +1,10 @@
+0;Movie;Titanic;Rented
+0;Book;A Head Full of Ghosts;Returned
+1;Movie;Baby Driver;Late
+0;Movie;Shaun of the Dead;Rented
+0;Book;The Woman in Black;Rented
+0;Book;Solaris;Rented
+0;Movie;Kiki's Delivery Service;Rented
+0;Movie;Ip Man;Rented
+0;Book;A Head Full of Ghosts;Rented
+0;Book;Hiroshima;Rented

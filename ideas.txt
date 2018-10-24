@@ -1,0 +1,54 @@
+books and movies
+
+stuff we need:
+add items
+remove items
+edit item properties
+search items from library - by book title, author, release date, etc.
+sort items by item properties
+library should be loaded from a text file - at least 2 files (two different load files to test if it works)
+
+tech specs:
+items class - extends to books, movies
+Library container - arrayList
+built in algorithm - search or sort
+well designed intuitive ui
+library class must store all of the items and provide interaction functionality
+
+
+BOOKS:
+name*, author*, publication date*, genre*, page count
+
+MOVIES: 
+name*, director*, release date*, genre*, running time, actors (main 3)
+
+ITEM CLASS:
+name, release date, genre, author/director, return dates, late fee, description
+
+ADDITIONAL FEATURES (ideas): 
+Search by actor / director
+Recommended books / films (based on past rentals (item properties) or popularity)
+-log in with library card - loads past rentals & recommendations
+
+try and make it run in windows
+-design an interface
+-book / movie covers
+
+report printing - account stuff
+-library card details - id, name, address, age
+-reciept - everything you just rented, return date 
+-account standings - if late, you can't rent until stuff is returned and fees are paid (3 chances)
+
+review / rating system
+
+made up library
+-map
+-book rooms / pcs
+
+BOOK GENRES:
+crime, fiction, fantasy, romance, non-ficton, horror, poetry, comic, manga, sci-fi, history,
+psychological, children
+
+MOVIE GENRES:
+horror, comedy, romance, action, thriller, fantasy, animation, documentaries, crime, drama, sci-fi,
+history, psychological
